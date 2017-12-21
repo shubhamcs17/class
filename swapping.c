@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int a,b,c,d;
+int a,b,e,f;
 printf("Enter Two no's:");
 d=a;
 a=b;
